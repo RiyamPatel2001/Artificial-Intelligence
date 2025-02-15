@@ -1,1 +1,1 @@
-Assignemnts and Projects of CSGY-6613
+Applications and Fundamentls of AI.
